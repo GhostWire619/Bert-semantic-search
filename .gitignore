@@ -7,7 +7,7 @@ __pycache__/
 pip-log.txt
 pip-delete-this-directory.txt
 
-# Virtual environment
+# Virtual environment.
 venv/
 env/
 .venv/
