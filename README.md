@@ -87,7 +87,7 @@ It leverages `DatabaseIndexer` and `TextIndexer` from the `utils` module to mana
   ```
 - **Purpose**: Creates a FAISS index for the specified collection and text field.
 
-### 2. Add Text to a Collection
+### 2. Add Text to a Collection.
 
 - **Endpoint**: `POST /add-text`
 - **Request Body**:
